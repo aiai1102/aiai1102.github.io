@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
-</template>
+  <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
+  <HelloWorld msg="武豊ファンサイト制作中"/></template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
