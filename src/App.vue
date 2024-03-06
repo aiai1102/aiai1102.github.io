@@ -1,10 +1,11 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-  <HelloWorld msg="武豊ファンサイト制作中"/></template>
+  <HelloWorld msg="ﾃｽﾄ"/></template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+
 
 export default {
   name: 'App',
@@ -13,6 +14,17 @@ export default {
   }
 }
 </script>
+
+<!-- <script>
+import TabMenu from './components/TabMenu.vue'
+export default {
+  name: 'App',
+  components: {
+    TabMenu
+  }
+}
+</script> -->
+
 
 <style>
 #app {
