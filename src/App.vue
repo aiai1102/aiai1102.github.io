@@ -1,18 +1,22 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <TabMenu />
+  <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+  <img alt="Vue logo" src="./assets/horse2.jpg" width="10%" height="10%">
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   <HelloWorld msg="ﾃｽﾄ①"/></template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+import TabMenu from './components/TabMenu.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    TabMenu
   }
 }
+
 </script>
 
 <!-- <script>

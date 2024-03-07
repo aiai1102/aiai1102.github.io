@@ -31,7 +31,8 @@
   ol {
     margin-left: auto;
     width: 480px;
-    display:flex;
+    /* display:flex; */
+    display:inline-flex;
     justify-content: center;
     padding: 0;
     list-style: none;
