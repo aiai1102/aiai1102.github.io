@@ -1,7 +1,7 @@
 <template>
   <TabMenu />
   <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-  <img alt="Vue logo" src="./assets/horse2.jpg" width="10%" height="10%">
+  <img alt="Vue logo" src="./assets/horse2.jpg">
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   <HelloWorld msg="ﾃｽﾄ①"/></template>
 
