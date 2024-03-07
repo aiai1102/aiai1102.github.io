@@ -33,7 +33,8 @@
     width: 480px;
     /* display:flex; */
     display:inline-flex;
-    justify-content: center;
+    /* justify-content: center; */
+    justify-content:normal;
     padding: 0;
     list-style: none;
   }
